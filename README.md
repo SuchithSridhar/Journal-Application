@@ -9,3 +9,8 @@ in encrypted format using basic password based encryption.
 
 The 'Export' Button does not work on the application for now,
 will be updated later.
+
+To test the application quickly:
+create a folder in the cwd called 'Testing-SDE'
+and in the last lines of the code, call main()
+inplace of intro()
