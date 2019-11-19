@@ -1,6 +1,6 @@
 # Journal-Application
 If you only want the application and not the code download it here:
-https://www.mediafire.com/file/xwi972766ozj3y3/Journal_1.4.0.zip/file
+https://www.mediafire.com/file/sjbh8x9yl5994q6/Journal_1.4.0.zip/file
 
 An application for noting down memorable events or for planning coming up ones.
 
