@@ -77,6 +77,3 @@ def write_new_file(files, function=blank,
         open_file(folder)
     finally:
         os.chdir(original_path)
-
-
-# write_new_file(SDE_files(), new_file="Compiled File.txt", code=2808)
