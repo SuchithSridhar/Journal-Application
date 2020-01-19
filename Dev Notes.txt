@@ -1,0 +1,9 @@
+Journal 1.5.0 -----
+
+- Jounal dimensions changed and
+rezising allowed
+
+
+Journal 1.4.0 -----
+
+- Fixed the export option
